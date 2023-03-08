@@ -15,7 +15,7 @@ $ npm start
 'react-scripts' is not recognized as an internal or external command,
 operable program or batch file.
 ```
-## OutPut Error :   
+## OutPut Error Solve :   
 
 ```bash
  npm i -g react-scripts
@@ -53,7 +53,7 @@ Require stack:
 
 Node.js v18.12.0
 ```
-## OutPut Error :   
+## OutPut Error Solve :   
 
 ```bash
  npm install --save react react-dom @types/react @types/react-dom
