@@ -1,4 +1,39 @@
 
+
+# React Text Area Problem :
+
+## 1. Warning: Use the `defaultValue` or `value` props instead of setting children on <textarea>.
+```
+Warning: Use the `defaultValue` or `value` props instead of setting children on <textarea>.
+    at textarea
+    at td
+    at tr
+    at tbody
+    at table
+    at div
+    at div
+    at KichenOrder (http://localhost:3000/static/js/bundle.js:1078:78)
+    at RequireAuth (http://localhost:3000/static/js/bundle.js:1633:5)
+    at RenderedRoute (http://localhost:3000/static/js/bundle.js:78309:5)
+    at Routes (http://localhost:3000/static/js/bundle.js:78731:5)
+    at div
+    at App
+    at Router (http://localhost:3000/static/js/bundle.js:78669:15)
+    at BrowserRouter (http://localhost:3000/static/js/bundle.js:77001:5)
+
+```
+
+## OutPut Error Solve :
+
+```
+1. defaultValue={a.message}
+```
+
+
+
+
+
+
 # React Error Handle :
 
 ## React Error Handle Comment Run ...
