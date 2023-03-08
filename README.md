@@ -4,7 +4,7 @@
 
 ## 1. Warning: Use the `defaultValue` or `value` props instead of setting children on <textarea>.
 ```
-Warning: Use the `defaultValue` or `value` props instead of setting children on <textarea>.
+1.1  Warning: Use the `defaultValue` or `value` props instead of setting children on <textarea>.
     at textarea
     at td
     at tr
@@ -23,10 +23,10 @@ Warning: Use the `defaultValue` or `value` props instead of setting children on 
 
 ```
 
-## OutPut Error Solve :
+## 1.1 OutPut Error Solve :
 
 ```
-1. defaultValue={a.message}
+1.1  defaultValue={a.message}
 ```
 
 
