@@ -107,7 +107,8 @@ Node.js v18.12.0
 ```
 
 
-{
+```bash
+    {
   // editor
   "editor.fontSize": 23,
   "editor.fontFamily": "Fira Code",
@@ -205,4 +206,4 @@ Node.js v18.12.0
   "emmet.useInlineCompletions": true
 }
 
-
+  ```
